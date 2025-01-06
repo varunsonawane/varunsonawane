@@ -32,4 +32,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=varunsonawane&" alt="varunsonawane" /></p>
 
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=varunsonawane" alt="varunsonawane streak stats" />
+</p>
