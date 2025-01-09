@@ -30,8 +30,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=varunsonawane&show_icons=true&locale=en&layout=compact" alt="varunsonawane" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=varunsonawane&" alt="varunsonawane" /></p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=varunsonawane" alt="varunsonawane streak stats" />
-</p>
