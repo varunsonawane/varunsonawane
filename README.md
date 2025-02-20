@@ -37,7 +37,7 @@
 
 ![Varun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=varunsonawane&show_icons=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=varunsonawane&layout=compact&theme=radical)
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=default)
 
 
 
