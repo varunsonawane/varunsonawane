@@ -35,7 +35,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=varunsonawane&show_icons=true&locale=en&layout=compact" alt="varunsonawane" /></p>
 
-![Varun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=varunsonawane&show_icons=true&theme=radical)
+![Varun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=varunsonawane&show_icons=true&theme=default)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=varunsonawane&layout=compact&theme=radical)
 
