@@ -35,6 +35,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=varunsonawane&show_icons=true&locale=en&layout=compact" alt="varunsonawane" /></p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=varunsonawane&theme=radical)
+![Varun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=varunsonawane&show_icons=true&theme=radical)
 
 
