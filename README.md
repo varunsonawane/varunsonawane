@@ -37,7 +37,7 @@
 
 ![Varun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=varunsonawane&show_icons=true&theme=default)
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=default)
+![Visitor Count](https://komarev.com/ghpvc/?username=varunsonawane&color=blue)
 
 
 
