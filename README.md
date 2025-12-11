@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **vsonawa@gmail.com**
 
-- 📄 Know about my experiences [here](https://www.linkedin.com/in/varun-sonawane/overlay/1726694489692/single-media-viewer?type=DOCUMENT&profileId=ACoAACyq7k8BSBqcQzRod6u-H0ajelhmBHaszMc&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BL8h5KNlRTdmHj%2BEXhKU%2B8A%3D%3D)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1weYLzFOP3oO090jDq2aDHk7qPE2FA4tR/view?usp=sharing)
 
 - ⚡ Fun fact **I play a lot of Video games**
 
