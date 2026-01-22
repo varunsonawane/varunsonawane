@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **vsonawa@gmail.com**
 
-- 📄 Know about my experiences [here](https://github.com/user-attachments/files/24804646/Data_Engineering_Resume.pdf)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1CasujlM6PKwfh1umc74h_JjAnuRbB9Nm/view?usp=sharing)
 
 - ⚡ Fun fact **I play a lot of Video games**
 
