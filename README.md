@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://vson.vercel.app" target="_blank">🌐 Portfolio</a> &nbsp;•&nbsp;
   <a href="https://www.linkedin.com/in/varun-sonawane/" target="_blank">💼 LinkedIn</a> &nbsp;•&nbsp;
-  <a href="mailto:varunsonawane23@gmail.com">📧 Email</a>
+  <a href="mailto:vsonawa23@gmail.com">📧 Email</a>
 </p>
 
 ---
