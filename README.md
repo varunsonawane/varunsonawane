@@ -63,7 +63,7 @@
 |---|---|---|
 | [**DataLens**](https://github.com/varunsonawane/datalens) | Multimodal data storytelling platform with RAG pipeline and Gemini Live voice | FastAPI, React, Vertex AI, GCS, Firestore |
 | [**IRIS**](https://github.com/varunsonawane/iris) | AI grocery health scanner with lab report upload, product safety verdicts, and budget meal planning | Claude Vision, ElevenLabs, React/Vite, Node.js |
-| [**Engage IU**](https://github.com/varunsonawane/engage-iu) | Live campus event attendance leaderboard, 2nd Place at Luddy Hacks 2026 (Graduate Division) | FastAPI, PostgreSQL 16, Vanilla JS, Docker, SSE, JWT |
+| [**Engage IU**](https://github.com/varunsonawane/engage_iu) | Live campus event attendance leaderboard, 2nd Place at Luddy Hacks 2026 (Graduate Division) | FastAPI, PostgreSQL 16, Vanilla JS, Docker, SSE, JWT |
 | [**DocWeaver**](https://github.com/varunsonawane/docweaver) | Healthcare clinical doc platform with 20+ AI agents, cutting doc time by 65% | FastAPI, Next.js, Gemini AI |
 | [**VoiceLegal-AI**](https://github.com/varunsonawane/voicelegal-ai-web-extension) | Legal AI Chrome extension with 4.8x faster response times | FastAPI, Vertex AI Gemini 2.5, ElevenLabs, Docker |
 | [**ShieldScraper**](https://github.com/varunsonawane/shieldscraper) | Cloud-based web scraping and analytics pipeline on AWS | Glue, Athena, DynamoDB, Power BI, Docker |
